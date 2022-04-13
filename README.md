@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ricilandolt
 - 🔭 I’m currently working on R, Python, SQL, Selenium
-- 👀 I’m interested in ...
 - 🌱 I’m currently learning AI, ML, BigData
 - 👯 I’m looking to collaborate on Open Source projects.
 - 📫 How to reach me ricardo.landot1@gmail.com
